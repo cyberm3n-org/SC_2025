@@ -1,4 +1,5 @@
 # Gears of Ware
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/Gears_of_War-Front.png">
 
 ### Build List Items
 | Reference | Value | Footprint |
@@ -16,3 +17,4 @@
 | --- | --- |
 | Red 0805 | Red |
 | 150Ω 0805 | Red |
+
