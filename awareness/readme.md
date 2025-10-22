@@ -1,4 +1,6 @@
 # For Awareness
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/Awareness-Front.png">
+Bad render, but still OK reference.
 
 ### Build List Items
 | Reference | Value | Footprint |
@@ -23,3 +25,4 @@
 | Red 0603 | Red |
 | 56Ω 0805 | Faded Turquoise |
 | 300Ω 0603 | Pink |
+
