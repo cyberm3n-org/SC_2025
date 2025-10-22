@@ -1,4 +1,6 @@
 # Limited Run AW 2025 Badge
+This badge is Very Rare (There are only 22 of them in the wild)
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/AWSC_25-Front.png">
 
 ### Build List Items
 | Reference | Value | Footprint |
@@ -30,3 +32,4 @@ Use your judgement for best order of operation, as this will help in the "ease" 
 | 20kΩ 0805 | Turquoise |
 | 56Ω 0805 | Faded Turquoise |
 | 555 Timer | Yellow |
+
