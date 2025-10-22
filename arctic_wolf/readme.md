@@ -4,6 +4,12 @@ This single guide page is for Arctic Wolf's vairous badges.
 * Extender Badge
 * Red Team, Blue team, Purple team, and "Black Badge"
 
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/AW_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/AW_Head-Front.png">
+
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/AW_MicroBadge-Collection.png">
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/AW_Extender-Front.png">
+
 ## Arctic Wolf's large (Main) minibadge for Main/Large 
 
 ### Build List Items
