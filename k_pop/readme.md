@@ -1,4 +1,7 @@
 # KDH (Zoe, Mira, & Rumi)
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/KDH_Mira-Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/KDH_Zoe-Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/KDH_Rumi-Front.png">
 
 ### Build List Items
 | Reference | Value | Footprint |
