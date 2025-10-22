@@ -13,7 +13,7 @@ This single guide page is for Arctic Wolf's vairous badges.
 | D3,D4 | Blue | 0805 |
 | D5 -> D9 | White | 0805 |
 | R1,R3,R4 | 30Ω | 0805 |
-| R4 | 62Ω | 0805 |
+| R2 | 62Ω | 0805 |
 
 ###  Actions
 1. Seperate the board into 2 sections -> discard the mouse bite section, they are not needed.
