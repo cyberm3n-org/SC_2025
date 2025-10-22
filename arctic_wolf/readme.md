@@ -11,7 +11,7 @@ This single guide page is for Arctic Wolf's vairous badges.
 | --- | --- | --- |
 | D1,D2 | Orange | 0805 |
 | D3,D4 | Blue | 0805 |
-| D5 -> D9 | Whiteß≈ | 0805 |
+| D5 -> D9 | White | 0805 |
 | R1,R3,R4 | 30Ω | 0805 |
 | R4 | 62Ω | 0805 |
 
@@ -52,6 +52,12 @@ This badge is fairly straight forward; the only action is to solder the 1.0mm so
 ### Red Team, Blue Team, Purple Team, & Black Badge
 There are slight diviations but the gist is the same for each of these badges.
 
+### Build List Items
+| Reference | Value | Footprint |
+| --- | --- | --- |
+| D1 | White | 0402 |
+| R1 | 10Ω  | 0402 |
+
 1. Solder LEDs (there is a small amount of green on the back side and a tiny dot/hole to indicate polarity)
 2. Soldet the Resistor
 3. [OPTIONAL] Add hot glue covering the LED and the negative space
@@ -59,3 +65,12 @@ There are slight diviations but the gist is the same for each of these badges.
 5. Enjoy
 
 -----
+
+## Component Markings
+30Ω 0805 -> Orange
+62Ω 0805 -> Turquose
+10Ω 0402 -> Pink
+White 0805 -> Yellow
+Orange 0805 -> Turquose
+Blue 0805 -> Blue
+White 0402 -> Brown
