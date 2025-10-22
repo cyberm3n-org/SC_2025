@@ -13,10 +13,20 @@
 
 ------
 ### Steps
+Use your judgement for best order of operation, as this will help in the "ease" of assembly -> Order of list is not necassarily the best order of operation
 1. Solder Timer
 2. Solder Capacitors & Resistors
 3. Solder LEDs
 4. Bridge Jumper to obtain flashing or solid-ish affect.
 5. [OPTIONAL] Apply hot glue to difuse light
    
-
+### Component Markings
+| Value | Marking Color |
+| --- | --- |
+| .01uF 0603 | Black|
+| 10uF 0805 | Blue |
+| White 0603 | Black |
+| 50kΩ 0805 | Yellow |
+| 20kΩ 0805 | Turquoise |
+| 56Ω 0805 | Faded Turquoise |
+| 555 Timer | Yellow |
