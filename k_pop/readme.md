@@ -11,3 +11,8 @@
 2. Solder Resistor
 3. [OPTIONAL] Apply Hot Glue over LEDs
 
+### Component Marking
+| Value | Marking Color |
+| --- | --- |
+| Blue 1206 | Pink |
+| 30Ω 1206 | Purple |
