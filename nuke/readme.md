@@ -1,6 +1,6 @@
 # Fat Man (Nuke)
 
-### Hacker Build List Items
+### Build List Items
 | Reference | Value | Footprint |
 | --- | --- | --- |
 | D1,D2 | Red | 0805 |
@@ -12,3 +12,4 @@
 1. Solder LEDs
 2. Solder Resistors
 3. 
+
