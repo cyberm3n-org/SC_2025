@@ -1,4 +1,6 @@
 # Arctics Build
+<img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/Arcticus-Front.png">
+Image rendered funny
 
 ### Build List Items
 | Reference | Value | Footprint |
@@ -18,5 +20,6 @@ The white LEDs are marked with yellow marker
 The green LED is amrked with green marker
 The 30Ω Resistors is marked with orange marker
 The 10Ω Resistors is marked with yellopw marker
+
 
 
