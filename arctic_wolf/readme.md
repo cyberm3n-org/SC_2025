@@ -12,7 +12,7 @@ This single guide page is for Arctic Wolf's vairous badges.
 | D1, D2 | Orange |0805 |
 | D3, D4 | Blue | 0805 |
 | D5 -> D9 | Whiteß≈ | 0805 |
-| R1, R3, R4 | 30ΩΩ | 0805 |
+| R1, R3, R4 | 30Ω | 0805 |
 | R4 | 62Ω | 0805 |
 
 ###  Actions
@@ -29,7 +29,7 @@ This single guide page is for Arctic Wolf's vairous badges.
 | Reference | Value | Footprint |
 | --- | --- | --- |
 | D1 -> D2 | White | 0805 |
-| R1, | 330  | 0805 |
+| R1, | 30Ω  | 0805 |
 
  ### Actions
  1. Decidde if Wolf head LEDs should be a flashing motion or a solid light.
