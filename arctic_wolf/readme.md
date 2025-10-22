@@ -67,10 +67,12 @@ There are slight diviations but the gist is the same for each of these badges.
 -----
 
 ## Component Markings
-30Ω 0805 -> Orange
-62Ω 0805 -> Turquose
-10Ω 0402 -> Pink
-White 0805 -> Yellow
-Orange 0805 -> Turquose
-Blue 0805 -> Blue
-White 0402 -> Brown
+| Value | Marking Color |
+| --- | --- |
+| 30Ω 0805 | Orange |
+| 62Ω 0805 | Turquoise |
+| 10Ω 0402 | Pink |
+| White 0805 | Yellow |
+| Orange 0805 | Turquoise |
+| Blue 0805 | Blue |
+| White 0402 | Brown |
