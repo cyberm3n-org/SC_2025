@@ -1,4 +1,4 @@
-# Gears of Ware
+# Gears of War
 <img src="https://github.com/cyberm3n-org/SC_2025/blob/main/ref_images/Gears_of_War-Front.png">
 
 ### Build List Items
@@ -17,4 +17,5 @@
 | --- | --- |
 | Red 0805 | Red |
 | 150Ω 0805 | Red |
+
 
