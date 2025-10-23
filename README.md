@@ -5,6 +5,7 @@ Here is a collection of badges either handed-out and/or designed by those of us 
 - k_pop (Rumi, Mira, & Zoe)
 - gear_of_war
 - arctic_wolf
-- etc (more to come)
-
-
+- nuke
+- power_helmet
+- tardis (bad wolf)
+- etc 
