@@ -1,4 +1,4 @@
-# 2025 Saint Con Minibadge Instructions
+# 2025 SAINTCON Minibadge Instructions
 Here is a collection of badges either handed-out and/or designed by those of us at cyberm3n.
 
 ## Badges
